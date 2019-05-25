@@ -22,6 +22,7 @@ It's recommended to run the Notebook on Linux system. If working on Windows.
 
       - seaborn
       - WordCloud
+      - NLTK
 
 5. Run local server
 
